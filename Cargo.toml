@@ -1,0 +1,8 @@
+[workspace]
+members = [ "config",
+	"controller", "logger",
+	"model",
+	"view",
+	"logger",
+	"config"
+]
